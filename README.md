@@ -17,12 +17,19 @@ Rust
 he/him
 ```
 
+## 🏏 My hobbies
+
+*   🃏 Yu-Gi-Oh
+*   🎥 Anime
+*   👾 Create code bugs
+
 ## 💡 I'm mostly interessed in
 
 *   🐧 Linux
 *   💻 DevOps
 *   📚 Math
 *   🔒 Security
+*   🤯 Philosophy
 
 ## 🧰 My preferred toolbox
 
@@ -36,3 +43,9 @@ he/him
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=Python\&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=for-the-badge\&logo=TypeScript\&logoColor=white)
+
+## 📫 Where to find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-augusto-bortoli-8290961b8)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white)](https://twitter.com/too_many_timers)
