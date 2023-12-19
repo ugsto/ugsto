@@ -47,7 +47,7 @@ When I'm not coding, you can find me watching anime, or creating code bugs
 
 ## 🌐 My Portfolio
 
-I'm currently working on my portfolio website, which is hosted at [GitHub Pages](https://ugsto.github.io). It's not yet finished, but feel free to check it out and see my progress!
+I'm currently working on my [portfolio website](https://www.bortoli.phd). It's not yet finished, but feel free to check it out and see my progress!
 
 ## 📫 Where to Find Me
 
