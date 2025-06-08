@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm André
+# Nice to meet you!
 
 ```sh
 [ugsto@machine]$ whoami
@@ -13,21 +13,12 @@ C++
 [ugsto@machine]$ tail -n1 /etc/favlang
 Rust
 
-[ugsto@machine]$ grep 'age' ~/about-me.txt
-age=20
-
 [ugsto@machine]$ echo $PRONOUNS
 he/him
+
 ```
 
-## 🏏 A bit about me
-
-I'm a Software Engineer and Systems Analysis student specializing in low-level
-programming, Linux systems, and IoT, with a keen interest in cybersecurity.
-When I'm not coding, you can find me watching anime, or creating code bugs
-(for fun, of course 😉).
-
-## 💡 My Interests
+## My Interests
 
 - 🐧 Linux
 - 💻 DevOps
@@ -35,10 +26,11 @@ When I'm not coding, you can find me watching anime, or creating code bugs
 - 🔒 Security
 - 🤯 Philosophy
 
-## 🧰 My Preferred Toolbox
+## My Preferred Toolbox
 
 ![Arduino](https://github-badges.bortoli.phd/Arduino-00979D.svg)
 ![C/C++](https://github-badges.bortoli.phd/C++-00599C.svg)
+![Go](https://img.shields.io/badge/-Go-brightgreen?style=for-the-badge&logo=Go&logoColor=white&color=%2300ADD8)
 ![Kubernetes](https://github-badges.bortoli.phd/Kubernetes-3069DE.svg)
 ![Linux](https://github-badges.bortoli.phd/Linux-020202.svg)
 ![MongoDB](https://github-badges.bortoli.phd/MongoDB-47A248.svg)
@@ -48,7 +40,7 @@ When I'm not coding, you can find me watching anime, or creating code bugs
 ![Rust](https://github-badges.bortoli.phd/Rust-000000.svg)
 ![TypeScript](https://github-badges.bortoli.phd/TypeScript-3178C6.svg)
 
-## 📫 Where to Find Me
+## 📫 Where to Find Me!
 
 [![LinkedIn](https://github-badges.bortoli.phd/LinkedIn-0A66C2.svg)](https://www.linkedin.com/in/andre-augusto-bortoli)
 
